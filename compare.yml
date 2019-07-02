@@ -1,0 +1,14 @@
+# cocotb current master
+- url: https://github.com/potentialventures/cocotb/
+  commit: master
+  path: /tmp/cocotb-master
+
+# Branch/commit under test
+- url: https://github.com/eric-wieser/cocotb/
+  commit: avoid-runtime-coroutine-creation
+  path: /tmp/cocotb-eric-wieser
+
+# Freezed version
+- url: https://github.com/potentialventures/cocotb/
+  commit: 2744c4fec607bf598d677484e6c0290183360f7a
+  path: /tmp/cocotb-master
