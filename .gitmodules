@@ -1,0 +1,3 @@
+[submodule "oc_jpegencode"]
+	path = oc_jpegencode
+	url = https://github.com/chiggs/oc_jpegencode
